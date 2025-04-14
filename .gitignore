@@ -1,0 +1,4 @@
+venv/
+.mypy_cashe/
+__pycache__
+
